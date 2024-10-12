@@ -2,3 +2,7 @@ python-dotenv
 transformers
 torch
 ipywidgets
+accelerate
+bitsandbytes
+trl
+peft
